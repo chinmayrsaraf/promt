@@ -1,0 +1,20 @@
+Prompt:
+
+Parse the following text as a resume and output the information in JSON format. Structure the JSON as follows:
+
+The resume content:
+
+[Insert your resume text here]
+
+Explanation:
+
+This prompt provides a clear JSON structure for the output.
+It specifies the desired fields and their data types.
+It includes an example JSON structure to guide the model.
+It explicitly asks for the resume text to be inserted after the prompt.
+
+Additional Tips:
+
+Consider adding more specific instructions for handling certain sections of the resume, such as the "projects" section.
+Experiment with different prompts to find the best results for your specific resume format.
+You can provide multiple examples of your desired JSON output to further refine the model's understanding.
